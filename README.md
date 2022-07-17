@@ -7,7 +7,7 @@ Moro em Cajazeiras, PB. Sou iniciante no universo da programação, tendo entrad
 Dev. Júnior na <a href='https://cwi.com.br/'>CWI Software</a>, atuando junto ao <a href='https://www.bv.com.br/'>Banco Votorantim</a> - Squad Ativos em Moeda Estrangeira. Mantendo e desenvolvendo aplicações ligadas à operações de câmbio desde Outubro de 2021;
 <br><br><br>
 <div align='center'>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ewertonmac&show_icons=true" />  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonmac&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ewertonmac&show_icons=true" />  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonmac&layout=compact" />
 </div>
 <br><br><br>
 
