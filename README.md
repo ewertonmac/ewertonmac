@@ -3,7 +3,7 @@
 Moro em Cajazeiras, PB. Sou iniciante no universo da programação, tendo entrado nela através do curso de Análise e Desenvolvimento de Sistemas no <a href='https://ifpb.edu.br/'>IFPB</a> em 2019 e realizando transição de carreira, a partir da área da saúde, através do programa de estágio <a href='https://crescer.cwi.com.br/'>Crescer</a> em 2020.
 <br><br><br>
 ## Sobre meu trabalho:
-Dev. Júnior na <a href='https://cwi.com.br/'>CWI Software</a>, atuando junto ao <a href='https://www.bv.com.br/'>Banco Votorantim</a> - Squad Ativos em Moeda Estrangeira. Mantendo e desenvolvendo aplicações ligadas à operações de câmbio desde Outubro de 2021;
+Dev. Júnior na <a href='https://cwi.com.br/'>CWI Software</a>, atuando junto ao <a href='https://www.bv.com.br/'>Banco Votorantim</a> desde  Outubro de 2021, com foco na automatização de rotinas manuais. Visando assim trazer maior confiabilidade e diminuir o risco operacinal no dia a dia da empresa;
 <br><br><br>
 <div align='center'>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ewertonmac&show_icons=true" />  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonmac&layout=compact" />
